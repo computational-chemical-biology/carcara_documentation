@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parameters>
+<parameter name="ADDUCT">[M-H]</parameter>
+<parameter name="CHARGE">Negative</parameter>
+<parameter name="CNUN">0</parameter>
+<parameter name="COSINE">0.65</parameter>
+<parameter name="DATABASE">DNP,SUPNAT,GNPS</parameter>
+<parameter name="JOBID">3b215c4b25594b9c85d92de547815c0a</parameter>
+<parameter name="NFIRST">10</parameter>
+<parameter name="NREPORT">1</parameter>
+<parameter name="PPM">15</parameter>
+<parameter name="PROP">on</parameter>
+<parameter name="desc">NAP-test_Stheezans2</parameter>
+<parameter name="email">mumyung2@snu.ac.kr</parameter>
+<parameter name="task">405c26a262004299843d73278fb3d24c</parameter>
+<parameter name="user">kbkang</parameter>
+<parameter name="uuid">1DF1A59F-F68E-0001-A89B-1E6514001E44</parameter>
+<parameter name="workflow">NAP_CCMS2</parameter>
+</parameters>
