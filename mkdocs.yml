@@ -1,6 +1,7 @@
 site_name: Carcará Documentation 
 pages:
     - Introduction: index.md
+    - Data upload: upload.md
     - NAP parameter file: nap_params.md
 theme:
     name: material
